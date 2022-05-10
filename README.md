@@ -1,0 +1,2 @@
+# TwitterClone
+It is about microblogging system which is a content production. With a microblog, you can share short messages, images, videos and other types of contents with an online audience to improve engagement. Microblogging makes it easier to communicate with audiences quickly. Rather than writing pages of texts, you can have a convenient and shorter way of having conversational connections with customers.
