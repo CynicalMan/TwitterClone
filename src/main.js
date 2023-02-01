@@ -1,9 +1,7 @@
-import { createApp } from 'vue'
-import App from './App.vue'
-import router from './router'
-import './assets/taiwind.css'
-
-import './assets/main.css'
+import { createApp } from 'vue';
+import App from './App.vue';
+import router from './router';
+import './assets/styles.css';
 
 const app = createApp(App)
 
