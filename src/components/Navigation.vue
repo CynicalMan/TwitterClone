@@ -44,7 +44,6 @@
         </div>
     </div>
     <!-- side nav -->
-    
 </template>
 
 <script setup>
