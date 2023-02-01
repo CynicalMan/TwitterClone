@@ -1,6 +1,6 @@
 # Twitter CLone
 
-This template should help get you started developing with Vue 3 in Vite.
+It is about microblogging system which is a content production. With a microblog, you can share short messages, images, videos and other types of contents with an online audience to improve engagement. Microblogging makes it easier to communicate with audiences quickly. Rather than writing pages of texts, you can have a convenient and shorter way of having conversational connections with customers.
 
 ## Recommended IDE Setup
 
